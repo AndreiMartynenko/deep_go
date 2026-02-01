@@ -13,5 +13,10 @@ the number 0x0000FFFF to 0xFFFF0000 .
 */
 
 func main() {
-	
+
+}
+
+// pseudo
+func convert(x) {
+
 }
