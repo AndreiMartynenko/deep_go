@@ -9,7 +9,6 @@ const (
 	OpenModeBinary = 8 // 0000 1000
 
 	// sugar for prepared masks
-	// what is sugar here??
 	OpenModeInAndOut = OpenModeIn | OpenModeOut // 0000 0001 + 0000 0010 = 0000 0011
 )
 
