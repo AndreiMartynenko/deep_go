@@ -1,5 +1,6 @@
 package main
 
+// Function IsSetBit
 func IsSetBit(number, index int) bool {
 	return (number & (1 << index)) != 0
 }
